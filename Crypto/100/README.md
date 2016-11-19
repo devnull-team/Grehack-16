@@ -4,7 +4,7 @@
 Le challenge se présente sous la forme d’une image au format png.
 Il s’agit d’un menu de pizzeria sur lequel figure aux côtés des tarifs plusieurs inscriptions étrange.
 
-![menu](/Grehack-16/Crypto/100/Images/menu.png )
+![menu](/Crypto/100/Images/menu.png )
 
 unirlbhznqrlbhepubvpr?
 
