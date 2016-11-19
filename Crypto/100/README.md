@@ -2,11 +2,11 @@
 ## 100 pts
 
 Le challenge se présente sous la forme d’une image au format png.
-Il s’agit d’un menu de pizzeria sur lequel figure aux côtés des tarifs plusieurs inscriptions étrange.
+Il s’agit d’un menu de pizzeria sur lequel figurent aux côtés des tarifs, plusieurs inscriptions étrange.
 
 ![menu](/Crypto/100/Images/menu.png )
 
-unirlbhznqrlbhepubvpr?
+_unirlbhznqrlbhepubvpr?_
 
 * 1.11 - 7.24 - 1.0 - 6.0 - 0123
 * 6.29 - 9.5 - 9.26 - 5.26 - 048
@@ -14,11 +14,14 @@ unirlbhznqrlbhepubvpr?
 * 8.20 - 1.5 - 0125
 
 
-D’instinct, la première chaîne fait penser à du rot13. Ce qui donne une fois traduit : haveyoumadeyourchoice?
+D’instinct, la première chaîne fait penser à du rot13. Ce qui donne une fois traduit : _haveyoumadeyourchoice?_
 
 Néanmmoins, rien de très utile pour le moment.
 
 Au niveau de la série de nombres, il semblait y avoir un rapport entre le premier des deux chiffres de chaque groupe, et le numéro des pizzas disponibles. Le second nombre devant sûrement indiquer un déplacement.
+
+
+Le challenge étant basé sur une part de guessing, il fallait déduire que :
 
 1. Les groupes sans le "." séparateur sont des représentations décimales de l’ASCII. 
 2. La pizza 0 n’existant pas, la valeur récupérée était le premier chiffre du groupe.
