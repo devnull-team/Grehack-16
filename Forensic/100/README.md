@@ -50,12 +50,17 @@ On se rend alors compte qu’il s’agit du logo de l’application TrueCrypt.
 Cette dernière permet de créer des partitions cryptées et montables en système de fichiers.
 On lance alors la machine virtuelle Windows et on télécharge cette application.
 
-On se doute alors que la partition doit être cachée dans le seul fichier ne nous ayant pas encore servit, la vidéo !
-
- 
+On se doute alors que la partition doit être cachée dans le seul fichier ne nous ayant pas encore servi, la vidéo !
 
 
+Après avoir renseigné le fichier à décrypter, on double-clique sur un des
+lecteurs et on écrit la clé :
 
+![truecrypt_1](/Forensic/100/Images/truecrypt_1.png )
 
+On clic droit sur le lecteur -> Open.
+Un fichier texte apparait… and FLAG !
+
+**GH16{Polyglotte_and_Windows98_Is_Fun}**
 
 
