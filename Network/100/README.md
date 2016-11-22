@@ -1,8 +1,6 @@
 # SAPERLIPOPETTE
 ## 100 pts
 
-__Flag non vérifié par la team Securimag, ouvrez une issue si ce n’est pas le bon flag__
-
 Le challenge consiste à analyser un fichier pcap contenant des trames SAP.
 Le flag n’est pas au format GH16{…} ce qui "complique" un peu plus nos recherches.
 
