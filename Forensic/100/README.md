@@ -27,7 +27,7 @@ Warning : Skipped unknown 856 byte header
 Cette ligne signifie que des données non attendues se situent dans le fichier. Il suffit de les extraire avec __foremost__.
 
 ```sh
-$ foremost win98.mp4
+$ foremost win98.jpg
 Processing: win98.jpg
 |*|
 
