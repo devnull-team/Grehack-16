@@ -5,7 +5,7 @@ Le challenge consiste à analyser un fichier pcap contenant des trames SAP.
 Le flag n’est pas au format GH16{…} ce qui "complique" un peu plus nos recherches.
 
 Naturellement, le fichier étant un Pcap, on pense à l’analyser avec Wireshark.
-Malheuresement, on se rend vite compte que les données sont encryptées.
+Malheureusement, on se rend vite compte que les données sont encryptées.
 
 Pour obtenir du texte lisible, on lance une machine virtuelle Windows et on ouvre le logiciel Cain et Abel.
 On importe le pcap, puis on se rend dans la partie Sniffer. Il faut sélectioner SAP Dialog.
